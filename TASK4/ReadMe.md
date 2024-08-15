@@ -11,6 +11,6 @@ Wine Quality Prediction
   * pH
   * Sulfates
   * Alcohol
-* The qulity will be between 0 to 10 and Each wine in this dataset is given a “quality” score between 0 and 10
+* The quality will be between 0 to 10 and Each wine in this dataset is given a “quality” score between 0 and 10
   - “good quality” (a score of 6 or higher)
   - not (a score below 6).
